@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Final%20Score-121/125-00C853?style=for-the-badge" alt="Final Score">
-  <img src="https://img.shields.io/badge/Project-Web-Game-Application-6A5ACD?style=for-the-badge" alt="Bonus Project">
+<img src="https://img.shields.io/badge/Project-Web_Game_Application-6A5ACD?style=for-the-badge" alt="Project Web Game Application">
   <img src="https://img.shields.io/badge/Architecture-Microservices-blueviolet?style=for-the-badge" alt="Microservices">
   <img src="https://img.shields.io/badge/Deployment-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
