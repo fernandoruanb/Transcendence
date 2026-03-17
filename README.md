@@ -33,6 +33,22 @@
 
 A multiplayer Pong web application featuring real-time gaming, chat, matchmaking, and user management. Built as a microservices architecture running on Docker.
 
+## Live Demo
+
+<img src="./imgs/Login.png" alt="login"\>
+<br\><br\>
+<img src="./imgs/Dashboard.png" alt="dashboard"\>
+<br\><br\>
+<p align="center">
+  <a href="https://transcendence42.xyz/login?from=%2Fdashboard" target="_blank">
+    <img src="https://img.shields.io/badge/Access-Live%20Platform-00C853?style=for-the-badge" alt="Access Live Platform">
+  </a>
+</p>
+
+<p align="center">
+  See the platform running live and access the dashboard through the official project link.
+</p>
+
 # Members
   - Fernando Ruan (Product Owner/dev)
   - Jonas Alberto (Tech Lead/dev)
