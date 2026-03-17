@@ -1,3 +1,34 @@
+<p align="center">
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/covers/cover-ft_transcendence-bonus.png" alt="ft_transcendence cover" width="100%">
+</p>
+
+<h1 align="center">
+  <a href="https://github.com/fernandoruanb/ft_transcendence">
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/ft_transcendencem.png" alt="ft_transcendence badge" width="200">
+  </a>
+  <br>
+  ft_transcendence
+  <br>
+</h1>
+
+<h4 align="center">
+  A multiplayer Pong web application featuring real-time gaming, chat, matchmaking, and user management, built as a microservices architecture running on Docker.
+</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Final%20Score-121/125-00C853?style=for-the-badge" alt="Final Score">
+  <img src="https://img.shields.io/badge/Project-Bonus-6A5ACD?style=for-the-badge" alt="Bonus Project">
+  <img src="https://img.shields.io/badge/Architecture-Microservices-blueviolet?style=for-the-badge" alt="Microservices">
+  <img src="https://img.shields.io/badge/Deployment-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
+</p>
+
+<p align="center">
+  <sub>
+    Developed by Fernando Ruan, Jonas Alberto, José Felipe, Seiji Ueno, and Felipe Nasser.
+  </sub>
+</p>
+
 # ft_transcendence
 
 A multiplayer Pong web application featuring real-time gaming, chat, matchmaking, and user management. Built as a microservices architecture running on Docker.
