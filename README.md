@@ -34,7 +34,7 @@
 A multiplayer Pong web application featuring real-time gaming, chat, matchmaking, and user management. Built as a microservices architecture running on Docker.
 
 ## Live Demo
-
+<html>
 <img src="./imgs/Login.png" alt="login"\>
 <br\><br\>
 <img src="./imgs/Dashboard.png" alt="dashboard"\>
@@ -48,6 +48,7 @@ A multiplayer Pong web application featuring real-time gaming, chat, matchmaking
 <p align="center">
   See the platform running live and access the dashboard through the official project link.
 </p>
+</html>
 
 # Members
   - Fernando Ruan (Product Owner/dev)
