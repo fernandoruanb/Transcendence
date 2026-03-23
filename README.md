@@ -33,6 +33,7 @@
 
 A multiplayer Pong web application featuring real-time gaming, chat, matchmaking, and user management. Built as a microservices architecture running on Docker.
 
+<!--
 ## Live Demo
 <html>
 <img src="./imgs/Login.png" alt="login"\>
@@ -44,6 +45,7 @@ A multiplayer Pong web application featuring real-time gaming, chat, matchmaking
     <img src="https://img.shields.io/badge/Access-Live%20Platform-00C853?style=for-the-badge" alt="Access Live Platform">
   </a>
 </p>
+-->
 
 <p align="center">
   See the platform running live and access the dashboard through the official project link.
