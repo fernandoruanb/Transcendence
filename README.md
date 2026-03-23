@@ -45,12 +45,13 @@ A multiplayer Pong web application featuring real-time gaming, chat, matchmaking
     <img src="https://img.shields.io/badge/Access-Live%20Platform-00C853?style=for-the-badge" alt="Access Live Platform">
   </a>
 </p>
--->
+
 
 <p align="center">
   See the platform running live and access the dashboard through the official project link.
 </p>
 </html>
+-->
 
 # Members
   - Fernando Ruan (Product Owner/dev)
